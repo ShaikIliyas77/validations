@@ -3,7 +3,7 @@ function Validate() {
 
     var emailRegularExpression = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 
-    // var pass = "Iliyasshaik77@";
+  
 
     var email = document.getElementById('emailId').value;
     var psw = document.getElementById('psw').value;
